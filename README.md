@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Task Manager App
 
 Overview
@@ -26,3 +27,4 @@ How to Use the App
 3. View Task → Tap a task to see details (Title, Description, Due Date). Options: Edit or Delete the task.
 4. Edit Task → Modify the task details and tap "Save" to update.
 5. Delete Task → Tap "Delete" on the Task Details screen to remove the task.
+=======
